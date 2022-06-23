@@ -49,7 +49,7 @@ The URL CSV is the exported lookup table from Splunk consisting of the following
 
 
 ## License
-Distributed under the GNU General Public License v3.  
+Distributed under the Creative Commons Attribution 4.0 International.  
 See `LICENSE` for more information.
 
 <!-- CONTACT -->
